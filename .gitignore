@@ -5,9 +5,6 @@
 /.idea
 
 ### LIBRARY ###
-/lib/realsense/**/*.h
-/lib/realsense/**/*.hpp
-/lib/realsense/**/CMakeLists.txt
-/lib/opencv455/**/*.h
-/lib/opencv455/**/*.hpp
-/lib/opencv455/**/CMakeLists.txt
+/libs/**/*.h
+/libs/**/*.hpp
+/libs/**/CMakeLists.txt

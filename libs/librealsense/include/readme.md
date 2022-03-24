@@ -3,7 +3,6 @@
 # File-System Structure
 
 Under `librealsense2` folder you will find two subfolers:
-
 * [h](./librealsense2/h) - Contains headers for the C language
 * [hpp](./librealsense2/hpp) - Contains headers for the C++ language, depends on C headers
 
@@ -111,7 +110,6 @@ Pipeline is a high-level primitive combining several sensors and processing step
 |[config](librealsense2/hpp/rs_pipeline.hpp#L128)| Desired pipeline configuration |
 
 ## [rs_record_playback.hpp](librealsense2/hpp/rs_record_playback.hpp):
-
 This file adds playback and record capability using ROS-bag files. See [src/media](src/media)
 
 |Class|Description|
