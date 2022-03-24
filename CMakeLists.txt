@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.21)
+project(HelloWorld)
+set(CMAKE_CXX_STANDARD 14)
+add_executable(rs-hello-realsense rs-hello-realsense.cpp)
+include_directories("lib/realsense")
